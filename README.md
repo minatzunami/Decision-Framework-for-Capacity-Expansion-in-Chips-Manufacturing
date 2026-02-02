@@ -33,11 +33,8 @@ This section provides the **quantitative foundation** for the final recommendati
 The second part of the project complements the numerical results with qualitative insights derived from external research.
 
 This analysis considers:
-- Industry practices in semiconductor manufacturing
-- Time-to-market considerations
-- Operational risks and uncertainties
-- Scalability and long-term strategic flexibility
-- Broader market and technological trends
+- Break-even Analysis
+- Demand Projection Forecast
 
 The qualitative discussion helps assess factors that are not fully captured by cost figures alone.
 
@@ -50,14 +47,6 @@ The final recommendation is based on a **combined decision framework**, where:
 
 This integrated approach ensures that the chosen option is both economically sound and strategically robust.
 
----
-
-## Context
-- **Project Type:** Case Competition Group Project  
-- **Industry:** Semiconductor / Chip Manufacturing  
-- **Focus Area:** Capacity Expansion and Strategic Investment Decisions  
-
----
 
 ## Notes
 This repository is intended for academic and competition purposes. All analyses are based on case-provided data and publicly available sources.
