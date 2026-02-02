@@ -1,4 +1,4 @@
-# Decision-Framework-for-Capacity-Expansion-in-Chips-Manufacturing
+# Decision Framework for Capacity Expansion in Chips Manufacturing
 ## Overview
 This repository contains a group project developed for a **case competition** focused on strategic decision-making in the semiconductor manufacturing industry. The project evaluates alternative approaches to capacity expansion and proposes a structured framework to support investment decisions.
 
